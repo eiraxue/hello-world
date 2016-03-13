@@ -4,5 +4,4 @@ added a second line in note.txt
 
 added a third line in note.txt in master branch.
 
-
 added a fourth line in master
