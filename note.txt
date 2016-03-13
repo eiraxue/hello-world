@@ -1,1 +1,3 @@
 create a new file, named note.txt
+
+added a second line in note.txt
